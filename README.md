@@ -2,7 +2,7 @@
 Dacon에서 진행된 [포디블록 구조 추출 AI 경진대회](https://dacon.io/competitions/official/236046/overview/description)
 에 대한 코드입니다.
 
-개발 환경 
+## 개발 환경 
 * colab pro+(Linux)
 
 ## Requirements
@@ -16,3 +16,6 @@ Dacon에서 진행된 [포디블록 구조 추출 AI 경진대회](https://dacon
 * torch==1.13.1+cu116
 * timm==0.6.12
 * transformers==4.26.0
+
+## 코드
+preprocess.ipynb -> model1_training.ipynb -> model2_training.ipynb -> inference.ipynb
