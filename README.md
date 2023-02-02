@@ -18,4 +18,4 @@ Dacon에서 진행된 [포디블록 구조 추출 AI 경진대회](https://dacon
 * transformers==4.26.0
 
 ## 코드
-preprocess.ipynb, model1_training.ipynb, model2_training.ipynb, inference.ipynb 순서로 run
+preprocess, model1_training, model2_training, inference 순서로 run
